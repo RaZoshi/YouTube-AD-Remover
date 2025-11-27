@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         YouTube (AD Remover)
+// @name         YouTube (AD-Remover)
 // @namespace    http://tampermonkey.net/
 // @version      2025-11-27
 // @description  https://github.com/RaZoshi
